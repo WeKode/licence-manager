@@ -1,0 +1,7 @@
+# Elite Club licence status. Names licences by number only.
+format=1
+kind=status
+issued=2026-10-29T09:54:59Z
+revoked=
+extend=
+sig=MEQCIEnXOfXQSzvPUw+oBi71GhMuOLudD0siMPorDue4NA18AiAwbk3WYHURdhIi2hJcfXszNOsIUduRKoeh6+lr2Af2IQ==
