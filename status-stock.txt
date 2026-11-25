@@ -1,0 +1,7 @@
+# Stock Manager licence status. Names licences by number only.
+format=1
+kind=status
+issued=2026-11-25T17:22:10Z
+revoked=
+extend=
+sig=MEUCIDRTTpKVe6xnHyA56rqie2Xa+JQAQXiL/7MLMR0+75VOAiEApCAI9zA/i8YkP+6KD/SOP4PzCr2JU9BnQhPlhCxZSsI=
